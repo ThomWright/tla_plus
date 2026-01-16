@@ -1,3 +1,6 @@
 .vscode
 */states/
 *.out
+*.dvi
+*.pdf
+*.tex
